@@ -19,6 +19,8 @@ const CHIPS: Chip[] = [
     fg: "#ffffff",
     iconUrl: "https://svgl.app/library/figma.svg",
   },
+  { label: "Golang", slug: 'go', bg: "#00ADD8", fg: "#ffffff"},
+  { label: "Docker", slug: 'docker', bg: "#2496ED", fg: "#ffffff"},
   { label: "Angular", slug: "angular", bg: "#f30b53", fg: "#ffffff", iconUrl: "/angular.svg"},
   { label: "React", slug: "react", bg: "#1FB6CB", fg: "#ffffff" },
   { label: "Vue3", slug: "vue.js", bg: "#4FC08D", fg: "#ffffff" },
